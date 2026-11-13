@@ -1,0 +1,14 @@
+{
+  "mejor_k": 21,
+  "exactitud_val": 0.44875,
+  "aciertos_por_genero": {
+    "Electronic": 0.29,
+    "Experimental": 0.29,
+    "Folk": 0.69,
+    "Hip-Hop": 0.72,
+    "Instrumental": 0.15,
+    "International": 0.7,
+    "Pop": 0.08,
+    "Rock": 0.67
+  }
+}

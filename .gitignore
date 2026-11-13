@@ -1,0 +1,5 @@
+# Los datos no se suben al repositorio: se descargan de la fuente original (ver README)
+datos/*
+!datos/.gitkeep
+__pycache__/
+.ipynb_checkpoints/

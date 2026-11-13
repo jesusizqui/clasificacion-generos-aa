@@ -1,0 +1,14 @@
+{
+  "mejor_lambda": 10.0,
+  "exactitud_val": 0.54875,
+  "aciertos_por_genero": {
+    "Electronic": 0.61,
+    "Experimental": 0.46,
+    "Folk": 0.81,
+    "Hip-Hop": 0.56,
+    "Instrumental": 0.34,
+    "International": 0.67,
+    "Pop": 0.22,
+    "Rock": 0.72
+  }
+}
